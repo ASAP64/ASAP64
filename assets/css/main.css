@@ -2983,3 +2983,9 @@ input, select, textarea {
 						}
 
 	}
+.logo-container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   /* Add additional styling if needed, e.g., padding, margin */
+}
