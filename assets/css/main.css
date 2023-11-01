@@ -182,7 +182,7 @@ input, select, textarea {
 		width: 68em;
 	}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width : 1920px ){
 
 			.container {
 				width: 70em;
@@ -206,7 +206,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width : 382px ){
 
 			.container {
 				width: calc(100% - 40px);
@@ -457,7 +457,7 @@ input, select, textarea {
 					padding-top: 100px;
 				}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width : 1920px ){
 
 			.row {
 				display: flex;
@@ -1192,7 +1192,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width : 382px ){
 
 			.row {
 				display: flex;
@@ -2412,7 +2412,7 @@ input, select, textarea {
 
 /* XLarge */
 
-	@media screen and (max-width: 1680px) {
+	@media screen and (max-width : 1920px ){
 
 		/* Basic */
 
@@ -2747,7 +2747,7 @@ input, select, textarea {
 
 /* Small */
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width : 382px ){
 
 		/* Basic */
 
