@@ -2120,8 +2120,8 @@ input, select, textarea {
 
 		#nav > ul {
 			display: inline-block;
-			border-radius: 0.35em;
-			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+			border-radius: 0.75em;
+			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 100);
 			padding: 0 1.5em 0 1.5em;
 		}
 
@@ -2138,11 +2138,12 @@ input, select, textarea {
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
 					color: #eee;
-					color: rgba(255, 255, 255, 0.75);
+					color: rgba(255, 255, 255, 100);
 					text-transform: uppercase;
 					text-decoration: none;
-					font-size: 0.7em;
+					font-size: 0.75em;
 					letter-spacing: 0.25em;
+					font-weight: bold;
 					height: 5em;
 					line-height: 5em;
 					-moz-transition: all .25s ease-in-out;
