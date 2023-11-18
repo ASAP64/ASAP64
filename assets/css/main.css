@@ -182,7 +182,7 @@ input, select, textarea {
 		width: 68em;
 	}
 
-		@media screen and (max-width : 1920px ){
+		@media screen and (max-width : 2591px ){
 
 			.container {
 				width: 70em;
@@ -457,7 +457,7 @@ input, select, textarea {
 					padding-top: 100px;
 				}
 
-		@media screen and (max-width : 1920px ){
+		@media screen and (max-width : 2591px ){
 
 			.row {
 				display: flex;
@@ -2413,7 +2413,7 @@ input, select, textarea {
 
 /* XLarge */
 
-	@media screen and (max-width : 1920px ){
+	@media screen and (max-width : 2591px ){
 
 		/* Basic */
 
@@ -2989,4 +2989,8 @@ input, select, textarea {
    justify-content: center;
    align-items: center;
    /* Add additional styling if needed, e.g., padding, margin */
+}
+.centered {
+    display: block;
+    margin: 0 auto; /* Ajoute une marge automatique sur les côtés pour centrer horizontalement */
 }
